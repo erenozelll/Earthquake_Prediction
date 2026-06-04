@@ -4,8 +4,6 @@
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)](https://scikit-learn.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](#contributing)
 [![Published](https://img.shields.io/badge/Status-Research-blue.svg)](#publication)
 
 **A physics-informed machine learning framework for predicting magnitude ≥4.0 earthquakes using 120+ years of seismic data from the Kandilli Observatory**
